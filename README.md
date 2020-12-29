@@ -1,0 +1,2 @@
+# meursault
+A JavaScript library
